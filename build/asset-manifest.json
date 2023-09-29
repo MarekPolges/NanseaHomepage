@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NanseaHomepage/static/css/main.4a4ff647.css",
+    "main.js": "/NanseaHomepage/static/js/main.224ef1e9.js",
+    "static/js/787.0435e78d.chunk.js": "/NanseaHomepage/static/js/787.0435e78d.chunk.js",
+    "static/media/release1.jpg": "/NanseaHomepage/static/media/release1.5474a19b5f37a2972320.jpg",
+    "static/media/logo.svg": "/NanseaHomepage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NanseaHomepage/index.html",
+    "main.4a4ff647.css.map": "/NanseaHomepage/static/css/main.4a4ff647.css.map",
+    "main.224ef1e9.js.map": "/NanseaHomepage/static/js/main.224ef1e9.js.map",
+    "787.0435e78d.chunk.js.map": "/NanseaHomepage/static/js/787.0435e78d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a4ff647.css",
+    "static/js/main.224ef1e9.js"
+  ]
+}
